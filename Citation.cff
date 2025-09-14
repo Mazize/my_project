@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+    message: "If you use this software, please cite it as below."
+    authors:
+      - family-names: "Essalhi"
+        given-names: "Aziz"
+        orcid: "https://orcid.org/0009-0008-1885-5169"
+    title: "Myproject2version"
+    version: V1.1.0
+    date-released: 2024-09-14
+    doi: 10.5281/zenodo.17117497
+    url:https://doi.org/10.5281/zenodo.17117497
